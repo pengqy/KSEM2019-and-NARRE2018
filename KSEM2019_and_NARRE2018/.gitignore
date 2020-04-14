@@ -1,0 +1,12 @@
+checkpoints/*pth
+dataset/*_data/
+dataset/__pycache__
+*pyc
+__pycache__
+.ipynb_checkpoints
+*sh
+pro_data/*data
+pro_data/*json
+pro_data/*npy
+pro_data/*txt
+
