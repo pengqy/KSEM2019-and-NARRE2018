@@ -1,0 +1,1 @@
+This is the source code of the paper KSEM2019 "NRSA: Neural Recommendation with Summary-Aware Attention", and the Pytorch Imepletion of the paper WWW2018 "Neural Attentional Rating Regression with Review-level Explanations".
